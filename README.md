@@ -1,4 +1,4 @@
-# call_billing
+# order service
 
 # Step 1: 
 Please wait about 6 minutes because we embed the full environment (maven,..)
@@ -17,4 +17,4 @@ access: http://127.0.0.1:8080/swagger-ui.html
 Test
 </br>
 # NOTE:
-I used free MySQL DB . So if you have a DB problem. You can change config values in application-dev.yml a
+I used sql server. You can change config values in application-dev.yml 
